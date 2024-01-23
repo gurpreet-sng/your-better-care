@@ -272,3 +272,20 @@ ul.list-style li{
     color: #333;
     font-size: 18px;
 }
+.blog-date{
+    color: #BDBDBD;
+    padding: 15px 20px;
+    border-bottom: 1px solid #BDBDBD;
+    margin-bottom: 20px;
+}
+.blog-box p{
+    color: #2B4570;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 0px 20px;
+}
+.tes-content h4{
+    color: #2B4570;
+    font-size: 40px;
+    font-family: 'Archivo', sans-serif;
+}

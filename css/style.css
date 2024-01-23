@@ -113,9 +113,6 @@ body{
     width: 86%;
     margin: auto;
 }
-ul.list-style{
-    
-}
 ul.list-style li{
     list-style: disc;
     color: #ffffff;
@@ -190,7 +187,7 @@ ul.list-style li{
     margin-bottom: 110px;
 }
 .btn i{
-    font-size: 22px;
+    margin-left: 5px;
 }
 .section-title{
     margin-bottom: 50px;
@@ -215,4 +212,63 @@ ul.list-style li{
 .video-wrapper iframe{
     width: 100%;
     height: 400px;
+    border-bottom: 5px solid #478FFB;
+}
+.video-wrapper{
+    position: relative;
+}
+.video-wrapper:before{
+    content: "";
+    width: 100%;
+    background: rgba(0, 121, 200, 0.10);
+    height: 60%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+.video-wrapper .highlights-video{
+    width: 90%;
+    margin: auto;
+}
+.btn.redbtn{
+    border-radius: 6px;
+    border: 3px solid #EC2426;
+    color: #ED2426;
+    font-size: 16px;
+    font-weight: 600;
+    background: transparent;
+}
+.btn.redbtn.bluebtn{
+    border: 3px solid #0079C8;
+    color: #0079C8;
+}
+.ilove{
+    margin-top: 40px;
+}
+.who-qualifies-section{
+    background: rgba(0, 121, 200, 0.10);
+}
+.who-qualifies-section h2{
+    color: #00335B;
+    font-size: 40px;
+    font-weight: 600;
+}
+.who-qualifies-section h6{
+    color: #333;
+    font-size: 24px;
+}
+.list-style li{
+    font-size: 18px;
+    margin-top: 25px;
+}
+.who-qualifies-section h2{
+    margin-bottom: 30px;
+}
+.who-qualifies-section h6{
+    
+}
+.list-style ul li{
+    color: #333;
+    font-size: 18px;
 }

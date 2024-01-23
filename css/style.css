@@ -332,3 +332,54 @@ ul.list-style li{
     color: #ffffff;
     font-size: 15px;
 }
+.social-icon{
+    border: 1px solid #BDBDBD;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70px;
+    margin-bottom: 20px;
+}
+.social-icon i{
+    font-size: 25px;
+}
+.footer-section-wrapper{
+    background: #478FFB;
+}
+.footer-title h3{
+    font-size: 24px;
+    color: #FFF;
+    font-family: 'Archivo', sans-serif;
+}
+.footer-title h3 a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.footer-content p{
+    color: #FFF;
+}
+.footer-content p a{
+    color: #FFF;
+    text-decoration: none;
+}
+.footer-content h6{
+    color: #ffffff;
+    font-weight: 600;
+}
+.footer-logos{
+    display: flex;
+    align-items: center;
+}
+.footer-logos .tw-seven{
+    margin: 0px 10px;
+}
+.footer-links p{
+    margin-bottom: 10px;
+}
+.footer-bottom p{
+    color: #ffffff;
+}
+.footer-bottom{
+    background: #478FFB;
+    padding-bottom: 20px;
+}

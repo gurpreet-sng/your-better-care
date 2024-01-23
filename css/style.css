@@ -383,3 +383,9 @@ ul.list-style li{
     background: #478FFB;
     padding-bottom: 20px;
 }
+.space-top{
+    margin-top: 80px;
+}
+.text-align-right{
+    text-align: right;
+}

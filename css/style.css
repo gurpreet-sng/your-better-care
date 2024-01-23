@@ -288,4 +288,47 @@ ul.list-style li{
     color: #2B4570;
     font-size: 40px;
     font-family: 'Archivo', sans-serif;
+    font-weight: 200;
+    margin-bottom: 30px;
+}
+.tes-content h3{
+    color: #EC2426;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Archivo', sans-serif;
+}
+.tes-content h3 sub{
+    bottom: 0;
+    font-weight: 200;
+}
+.tes-content .btn{
+    border: 1px solid #EDEDED;
+    background: #FFF;
+    border-radius: 100px;
+    padding: 20px 40px;
+}
+.tes-img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin: auto;
+    overflow: hidden;
+}
+.tes-box.light-blue{
+    background: #478FFB;
+}
+.tes-box.dark-blue{
+    background: #00335B;
+}
+.tes-box{
+    padding: 40px;
+}
+.tes-box h3{
+    color: #ffffff;
+    font-size: 22px;
+    margin: 20px 0px 10px;
+}
+.tes-box p{
+    color: #ffffff;
+    font-size: 15px;
 }

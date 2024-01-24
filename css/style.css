@@ -491,7 +491,138 @@ ul.list-style li{
 }
 @media only screen and (max-width:767px){
 
+    .navbar-toggler{
+        background: #ED2426 !important;
+    }
+    .email-and-home{
+        justify-content: center;
+    }
+    .phone-contact{
+        justify-content: center;
+    }
+    .intro-text p{
+        width: 100%;
+    }
+    .tes-box{
+        margin-top: 30px;
+    }
+    .footer-logo{
+        margin-bottom: 30px;
+    }
+    .footer-bottom p{
+        text-align: center;
+    }
+    .footer-section-wrapper.top-bottom-space{
+        padding-bottom: 20px;
+    }
+    .tes-section-wrapper.top-bottom-space{
+        padding-top: 0px;
+    }
+    .blog-box{
+        text-align: center;
+        margin-top: 30px;
+    }
+    .video-title{
+        text-align: center;
+    }
+    .videos-section-wrapper .video-wrapper{
+        margin-bottom: 40px;
+    }
+    .intro-text{
+        margin: 80px 0px 80px;
+    }
+    .social-image{
+        text-align: center;
+    }
+    .video-title h2 br{
+        display: none;
+    }
+    .section-title h2{
+        font-size: 40px;
+    }
+    .who-qualifies-section h2{
+        font-size: 30px;
+    }
+    .who-qualifies-section h6{
+        font-size: 20px;
+    }
 }
 @media only screen and (max-width:575px){
 
+    .top-bottom-space{
+        padding: 50px 0px;
+    }
+    .footer-logo{
+        text-align: center;
+    }
+    .footer-content{
+        text-align: center;
+    }
+    .footer-logos{
+        justify-content: center;
+    }
+    .spaceleft-right{
+        padding: 0px 15px;
+    }
+    .navbar-brand{
+        width: 100px;
+    }
+    .banner-box{
+        padding: 40px 20px;
+    }
+    .banner-box h2{
+        font-size: 24px;
+    }
+    .banner-box h6{
+        font-size: 20px;
+    }
+    .banner-box p{
+        font-size: 16px;
+    }
+    .intro-text{
+        margin: 50px 0px 50px;
+    }
+    .intro-text p {
+        font-size: 18px;
+    }
+    .aboutus-section{
+        margin-top: 20px;
+    }
+    .section-title h2{
+        font-size: 35px;
+    }
+    .section-title{
+        margin-bottom: 30px;
+    }
+    .video-title h2{
+        font-size: 24px;
+    }
+    .videos-section-wrapper .col-md-12.mt-5{
+        margin-top: 0px !important;
+    }
+    .blog-section-wrapper.top-bottom-space .row.mb-4{
+        margin-bottom: 0px !important;
+    }
+    .tes-content h4{
+        font-size: 35px;
+    }
+    .tes-content h3{
+        font-size: 35px;
+    }
+    .tes-box{
+        padding: 40px 20px;
+    }
+    .ilove{
+        margin-top: 30px;
+        text-align: center;
+    }
+    .color-box{
+        padding: 50px 15px 35px;
+    }    
+    .contact-us-link a{
+        font-size: 12px;
+    }
+    .footer-bottom p{
+        font-size:14px;
+    }
 }

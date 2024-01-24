@@ -73,6 +73,8 @@ body{
     padding: 50px;
     z-index: 2;
     position: relative;
+    margin-left: 20px;
+    margin-top: 20px;
 }
 .banner-box h6{
     color: #2C7BF3;

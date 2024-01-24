@@ -414,6 +414,18 @@ ul.list-style li{
     border-radius: 50px;
     margin: 0px 2px;
 }
+.banner-section-wrapper .owl-dots{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+.banner-section-wrapper .owl-dot.active{
+    background-color: #478FFB;
+}
+.banner-section-wrapper .owl-dots .owl-dot{
+    margin-bottom: 5px;
+}
 /*
 .tns-outer .tns-nav{
     display: flex;

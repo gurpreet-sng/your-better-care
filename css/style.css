@@ -101,6 +101,8 @@ body{
     position: absolute;
     right: 0;
     z-index: 1;
+    margin: 0;
+    padding: 0;
 }
 .banner-section-wrapper{
     position: relative;
@@ -388,4 +390,14 @@ ul.list-style li{
 }
 .text-align-right{
     text-align: right;
+}
+
+@media only screen and (min-width: 1920px){
+
+    .container-fluid{
+        width: 1720px;
+    }
+    .banner-section-wrapper .banner-image{
+        position: static;
+    }
 }

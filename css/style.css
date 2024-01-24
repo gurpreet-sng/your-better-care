@@ -514,6 +514,12 @@ ul.list-style li{
 }
 @media only screen and (max-width:767px){
 
+    .navbar.navbar-expand-md.navbar-dark.mb-4{
+        margin-bottom: 0px !important;
+    }
+    .banner-box{
+        margin: 15px;
+    }
     .navbar-toggler{
         background: #ED2426 !important;
     }

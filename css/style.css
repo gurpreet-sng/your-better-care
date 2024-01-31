@@ -157,11 +157,22 @@ ul.list-style li{
 .top-bottom-space{
     padding: 80px 0px;
 }
+.bottom-space{
+    padding-bottom: 80px;
+}
+.page-name-section .banner-box h2{
+    font-size: 50px;
+}
 .aboutus-section{
     background-image: url("../images/abtbg.png");
     background-repeat: no-repeat;
     background-position: left top;
     margin-top: 40px;
+}
+.about-page-intro{
+    background-image: url("../images/abtbg.png");
+    background-repeat: no-repeat;
+    background-position: bottom left;
 }
 .service-image{
     border-radius: 8px;
@@ -189,6 +200,9 @@ ul.list-style li{
 }
 .service-box{
     margin-bottom: 110px;
+    text-decoration: none;
+    color: #2B4570;
+    display: block;
 }
 .btn i{
     margin-left: 5px;
@@ -272,6 +286,10 @@ ul.list-style li{
 .list-style ul li{
     color: #333;
     font-size: 18px;
+}
+.page-description-section .list-style ul li{
+    margin-top: 10px;
+    font-size: 16px;
 }
 .blog-date{
     color: #BDBDBD;
@@ -450,7 +468,23 @@ ul.list-style li{
     margin-bottom: 10px;
     border: 0px;
 }*/
-
+.footer-links ul{
+    margin: 0px;
+    padding: 0px;
+    text-align: right;
+}
+.footer-links ul li{
+    list-style: none;
+    display: inline-block;
+}
+.footer-links ul li a{
+    text-decoration: none;
+    color: #ffffff;
+    padding: 0px 20px;
+}
+.firstlink a{
+    border-right: 1px solid #ffffff;
+}
 @media only screen and (min-width: 1920px){
 
     .container-fluid{

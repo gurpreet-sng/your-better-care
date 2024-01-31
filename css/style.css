@@ -485,6 +485,20 @@ ul.list-style li{
 .firstlink a{
     border-right: 1px solid #ffffff;
 }
+.contact-links h6{
+    color: #2B4570;
+    font-size: 25px;
+    line-height: 25px;
+}
+.contact-links a{
+    color: #EC2426;
+    font-weight: 400;
+    font-size: 25px;
+    text-decoration: none;
+}
+.contact-links-section .social-icon{
+    margin-bottom: 0px;
+}
 @media only screen and (min-width: 1920px){
 
     .container-fluid{

@@ -446,28 +446,6 @@ ul.list-style li{
 .banner-section-wrapper .owl-dots .owl-dot{
     margin-bottom: 5px;
 }
-/*
-.tns-outer .tns-nav{
-    display: flex;
-    flex-direction: column;
-    align-items: baseline;
-    justify-content: center;
-    width: 30px;
-    position: absolute;
-    top: 0px;
-    bottom: 0px;
-    left: -60px;
-}
-.tns-nav button{
-    display: inline-block;
-    width: 10px;
-    height: 10px;
-    background-color: #c4c4c4;
-    margin: 0px 10px;
-    border-radius: 50px;
-    margin-bottom: 10px;
-    border: 0px;
-}*/
 .footer-links ul{
     margin: 0px;
     padding: 0px;
